@@ -1,6 +1,6 @@
 # GitHub for Startups
 
-[GitHub for Startups](https://github.com/enterprise/startups/) helps your startup go from idea to IPO, offering access to the world's largest and most advanced developer platform. Qualifying startups receive access to 20 seats for GitHub Enterprise for 12 months, and 50% off for the next 12 months. To further aid your onboarding process, we're creating a series of video presentations to answer your questions, provide guidance about DevOps, and walkthrough our most popular offerings.
+[GitHub for Startups](https://github.com/enterprise/startups/) helps your startup go from idea to IPO, offering access to the world's largest and most advanced developer platform. Qualifying startups receive access to 20 seats for GitHub Enterprise for 12 months, and 50% off for the next 12 months. To further aid your onboarding process, we're creating a series of video presentations to answer your questions, provide guidance about DevOps, and walk through our most popular offerings.
 
 This space is designed as a companion to the video presentations, helping to provide an overview of the concepts and serve as a launching point to the GitHub documentation. It is currently a work in progress, evolving as we launch more content, receive feedback, and products change. Please provide [feedback](/issues) or make a [pull request](/pulls) to aid the shaping of this content and support the community.
 
